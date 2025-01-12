@@ -1,7 +1,6 @@
 # Hello, I'm Amber Shakespeare 👋
-<!--![Profile Views](https://komarev.com/ghpvc/?username=amber-shakespeare&color=green)-->
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aishakespeare/)
-[![Github](https://img.shields.io/github/followers/shakespear?label=Follow&style=social)](https://github.com/shakespearea/shakespearea)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Engineer;Audio+Programmer;Sound+Engineer;Audio+Researcher;Immersive+Audio+Developer;Audio+Codec+Developer;Media+Technology+Specialist;Acoustic+Engineer;DSP+Engineer)](https://git.io/typing-svg)
+
 
 ## 👩‍💻 About Me
 - 🔭 Software Engineer specialising in Audio Codec Demonstration Development
@@ -15,10 +14,10 @@
 - **Specialties:** Immersive Audio, Audio Codecs
 - **Spoken Languages:** English (Native), French (B2), German (B1)
 
-## 🎮 Interests
-- Gaming, Handball, Hiking, Music
-
 ---
+<!--![Profile Views](https://komarev.com/ghpvc/?username=amber-shakespeare&color=green)-->
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aishakespeare/)
+[![Github](https://img.shields.io/github/followers/shakespear?label=Follow&style=social)](https://github.com/shakespearea/shakespearea)
 &nbsp;<div align="right">
   ![Visitor Count](https://profile-counter.glitch.me/shakesperea/count.svg)
 </div>
