@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hello, I'm Amber Shakespeare 👋
+<!--![Profile Views](https://komarev.com/ghpvc/?username=amber-shakespeare&color=green)-->
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aishakespeare/)
+[![Github](https://img.shields.io/github/followers/shakespear?label=Follow&style=social)](https://github.com/shakespearea/shakespearea)
 
-<!--
-**shakespearea/shakespearea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me
+- 🔭 Software Engineer specialising in Audio Codec Demonstration Development
+- 🌱 Skilled in C++, Swift, Rust, and version control
+- 🎓 Graduated with distinction in M.Sc. Audio and Music Technology
+- 🚀 Pursuing a career in R&D within audio engineering
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **Languages:** C++, C, Rust, Swift, Python, MATLAB, MaxMSP
+- **Tools:** Xcode, VSCode, Unity, GitLab, Protools
+- **Specialties:** Immersive Audio, Audio Codecs
+- **Spoken Languages:** English (Native), French (B2), German (B1)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎮 Interests
+- Gaming, Handball, Hiking, Music
+
+---
+&nbsp;<div align="right">
+  ![Visitor Count](https://profile-counter.glitch.me/shakesperea/count.svg)
+</div>
+
+<!--&nbsp;<div align="center">
+  <a href="<Your Profile URL>"><img src="https://goodreads-readme.vercel.app/api/book?id=136540854" alt="GoodReads reading" width="350" /></a>
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/1179341471)
+  
+</div-->
+
+<!--![Jokes Card](https://readme-jokes.vercel.app/api)-->
+<br>
+
