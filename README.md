@@ -1,4 +1,4 @@
-# Hello, I'm Amber Shakespeare 👋
+# Hi 👋, I'm Amber
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Engineer;Audio+Programmer;Sound+Engineer;Audio+Researcher;Immersive+Audio+Developer;Audio+Codec+Developer;Media+Technology+Specialist;Acoustic+Engineer;DSP+Engineer)](https://git.io/typing-svg)
 
 
