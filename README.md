@@ -1,9 +1,9 @@
 # Hi 👋, I'm Amber
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Engineer;Audio+Programmer;Sound+Engineer;Audio+Researcher;Immersive+Audio+Developer;Audio+Codec+Developer;Media+Technology+Specialist;Acoustic+Engineer;DSP+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Audio+Researcher;Software+Engineer;Audio+Programmer;Sound+Engineer;Immersive+Audio+Developer;Audio+Codec+Developer;Media+Technology+Specialist;Acoustic+Engineer;DSP+Engineer)](https://git.io/typing-svg)
 
 
 ## 👩‍💻 About Me
-- 🔭 Software Engineer specialising in Audio Codec Demonstration Development
+- 🔭 Audio Research Software Engineer specialising in Audio Codec Demonstration Development
 - 🌱 Skilled in C++, Swift, Rust, and version control
 - 🎓 Graduated with distinction in M.Sc. Audio and Music Technology
 - 🚀 Pursuing a career in R&D within audio engineering
