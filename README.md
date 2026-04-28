@@ -12,7 +12,7 @@
 - **Languages:** C++, C, Rust, Swift, Python, MATLAB, MaxMSP
 - **Tools:** Xcode, VSCode, Unity, GitLab, Protools
 - **Specialties:** Immersive Audio, Audio Codecs
-- **Spoken Languages:** English (Native), French (B2), German (B1)
+- **Spoken Languages:** English (Native), French (B2/C1), German (B1)
 
 ---
 <!--![Profile Views](https://komarev.com/ghpvc/?username=amber-shakespeare&color=green)-->
